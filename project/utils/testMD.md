@@ -1,34 +1,33 @@
 # ${data.title}
 
-# Table of Contents
+# **Table of Contents**
 * [Description](#description)
 * [installation](#installation)
-* [Description](#description)
-* [Description](#description)
-* [Description](#description)
-* [Description](#description)
-* [Description](#description)
+* [Usage](#usage)
+* [Contribution](#contribution)
+* [Test](#test)
+* [License](#license)
 * [About Me](#About)
 
 
-## Description:
+## **Description**:
 ${data.description}
 
-## Installation:
+## **Installation**:
 ${data.installation}
 
-## Usage:
+## **Usage**:
 ${data.usage}
 
-## Contribution:
+## **Contribution**:
 ${data.contribution}
 
-## Test:
+## **Test**:
 ${data.test}
 
-## License:
+## **License**:
 ${data.license}
 
-## About:
+## **About**:
 ${data.github}
 ${data.email}
